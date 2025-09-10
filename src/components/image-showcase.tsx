@@ -18,7 +18,7 @@ export function ImageShowcase() {
             Experience the Community
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Join the vibrant bike community at Peddler Inn, where adventure meets hospitality in the heart of Cañon City.
+            Join the vibrant bike community at Pedal Inn, where adventure meets hospitality in the heart of Cañon City.
           </p>
         </motion.div>
 
@@ -33,8 +33,8 @@ export function ImageShowcase() {
           >
             <div className="relative h-96 rounded-2xl overflow-hidden shadow-lg">
               <Image
-                src="/peddlerinn-day.png"
-                alt="Peddler Inn Day - Bikers and community gathering"
+                src="/pedalinn-day-re-render.png"
+                alt="Pedal Inn Day - Bikers and community gathering"
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-500"
               />
@@ -58,8 +58,8 @@ export function ImageShowcase() {
           >
             <div className="relative h-96 rounded-2xl overflow-hidden shadow-lg">
               <Image
-                src="/peddler-inn-night.png"
-                alt="Peddler Inn Night - Festive biker community gathering"
+                src="/pedalinn-night.png"
+                alt="Pedal Inn Night - Festive biker community gathering"
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-500"
               />

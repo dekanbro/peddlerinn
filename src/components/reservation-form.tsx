@@ -85,10 +85,10 @@ export function ReservationForm() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6 font-serif">
-            Reserve Your Peddler Inn Membership
+            Reserve Your Pedal Inn Membership
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Join Peddler Inn and secure your spot in Cañon City&apos;s newest adventure community. 
+            Join Pedal Inn and secure your spot in Cañon City&apos;s newest adventure community. 
             Limited founding memberships available.
           </p>
         </motion.div>
@@ -204,8 +204,8 @@ export function ReservationForm() {
                           className="w-full pl-10 pr-4 py-3 border border-border rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent transition-colors appearance-none bg-background"
                         >
                           <option value="">Select membership tier</option>
-                          <option value="founders">Peddler Inn Founders Package - $1,000</option>
-                          <option value="adventure">Peddler Inn Adventure Tier - $2,500</option>
+                          <option value="founders">Pedal Inn Founders Package - $1,000</option>
+                          <option value="adventure">Pedal Inn Adventure Tier - $2,500</option>
                         </select>
                       </div>
                     </div>
@@ -252,7 +252,7 @@ export function ReservationForm() {
                       disabled={isSubmitting}
                       className="w-full bg-primary hover:bg-primary/90 text-primary-foreground py-3 text-lg font-semibold"
                     >
-                      {isSubmitting ? "Submitting..." : "Reserve My Peddler Inn Membership"}
+                      {isSubmitting ? "Submitting..." : "Reserve My Pedal Inn Membership"}
                     </Button>
                   </form>
                 </CardContent>
@@ -311,7 +311,7 @@ export function ReservationForm() {
                   <h3 className="text-lg font-bold text-foreground">Limited Availability</h3>
                 </div>
                 <p className="text-muted-foreground text-sm mb-4">
-                  Peddler Inn founding memberships are limited to ensure an exclusive community experience. 
+                  Pedal Inn founding memberships are limited to ensure an exclusive community experience. 
                   Don&apos;t miss your chance to be part of Cañon City&apos;s newest adventure hub.
                 </p>
                   <div className="text-sm text-muted-foreground">
@@ -326,7 +326,7 @@ export function ReservationForm() {
                 <CardContent className="p-6">
                   <p className="text-xs text-muted-foreground leading-relaxed">
                     <strong>Disclaimer:</strong> Memberships provide prepaid lodging credits and service perks only. 
-                    They do not represent an ownership interest, equity participation, or entitlement to any profits of The Peddler Inn or its affiliates. 
+                    They do not represent an ownership interest, equity participation, or entitlement to any profits of The Pedal Inn or its affiliates. 
                     This is not an investment offering.
                   </p>
                   <div className="mt-4 pt-4 border-t border-border/30">

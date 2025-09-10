@@ -84,7 +84,7 @@ export function MembershipBenefits() {
                   <Star className="w-8 h-8 text-primary" />
                 </div>
                 <CardTitle className="text-2xl font-bold text-foreground">
-                  Peddler Inn Founders Package
+                  Pedal Inn Founders Package
                 </CardTitle>
                 <div className="text-4xl font-bold text-primary mt-4">
                   $1,000
@@ -122,7 +122,7 @@ export function MembershipBenefits() {
                     }}
                     className="w-full bg-primary hover:bg-primary/90 text-primary-foreground"
                   >
-                    Join Peddler Inn
+                    Join Pedal Inn
                   </Button>
                 </div>
               </CardContent>
@@ -147,7 +147,7 @@ export function MembershipBenefits() {
                   <Gift className="w-8 h-8 text-accent" />
                 </div>
                 <CardTitle className="text-2xl font-bold text-foreground">
-                  Peddler Inn Adventure Tier
+                  Pedal Inn Adventure Tier
                 </CardTitle>
                 <div className="text-4xl font-bold text-accent mt-4">
                   $2,500
@@ -179,7 +179,7 @@ export function MembershipBenefits() {
                 {/* Includes all Founders benefits */}
                 <div className="pt-4 border-t border-border/50">
                   <p className="text-sm text-muted-foreground mb-3">
-                    <strong className="text-foreground">Plus all Peddler Inn Founders benefits:</strong>
+                    <strong className="text-foreground">Plus all Pedal Inn Founders benefits:</strong>
                   </p>
                   <div className="grid grid-cols-2 gap-2 text-xs text-muted-foreground">
                     <div>✓ Priority booking</div>

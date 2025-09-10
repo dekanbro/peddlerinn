@@ -15,12 +15,12 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Peddler Inn - Cañon City Hotel & Bike Hub",
-  description: "Join Peddler Inn for exclusive access to our boutique 10-room hotel and bike service hub in downtown Cañon City. Adventure, community, and exclusive perks await.",
-  keywords: ["Cañon City", "hotel", "bike rental", "Colorado", "adventure", "founding members", "community", "Peddler Inn"],
-  authors: [{ name: "Peddler Inn Hotel" }],
+    title: "Pedal Inn - Cañon City Hotel & Bike Hub",
+    description: "Join Pedal Inn for exclusive access to our boutique 10-room hotel and bike service hub in downtown Cañon City. Adventure, community, and exclusive perks await.",
+    keywords: ["Cañon City", "hotel", "bike rental", "Colorado", "adventure", "founding members", "community", "Pedal Inn"],
+    authors: [{ name: "Pedal Inn Hotel" }],
   openGraph: {
-    title: "Peddler Inn - Cañon City Hotel & Bike Hub",
+    title: "Pedal Inn - Cañon City Hotel & Bike Hub",
     description: "Join our exclusive community of adventure enthusiasts in downtown Cañon City",
     type: "website",
     locale: "en_US",

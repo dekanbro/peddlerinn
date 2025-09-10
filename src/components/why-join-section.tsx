@@ -100,10 +100,10 @@ export function WhyJoinSection() {
         >
           <div className="text-center mb-8">
             <h3 className="text-3xl font-bold text-foreground mb-4">
-              What Makes Peddler Inn Different
+              What Makes Pedal Inn Different
             </h3>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              We&apos;re not just another hotel. Peddler Inn is building a community hub that celebrates the outdoor lifestyle 
+              We&apos;re not just another hotel. Pedal Inn is building a community hub that celebrates the outdoor lifestyle 
               and supports local businesses in Cañon City.
             </p>
           </div>
@@ -139,7 +139,7 @@ export function WhyJoinSection() {
         >
           <div className="bg-primary/5 border border-primary/20 rounded-xl p-8 max-w-2xl mx-auto">
             <h3 className="text-2xl font-bold text-foreground mb-4">
-              Ready to Join Peddler Inn?
+              Ready to Join Pedal Inn?
             </h3>
             <p className="text-muted-foreground mb-6">
               Secure your founding member status and be part of Cañon City&apos;s newest community hub. 

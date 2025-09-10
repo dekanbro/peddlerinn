@@ -13,8 +13,8 @@ export function HeroSection() {
         {/* Day Image - Left Side */}
         <div className="absolute left-0 top-0 w-1/2 h-full opacity-20">
           <Image
-            src="/peddlerinn-day.png"
-            alt="Peddler Inn Day - Bikers and community"
+            src="/pedalinn-day-re-render.png"
+            alt="Pedal Inn Day - Bikers and community"
             fill
             className="object-cover"
             priority
@@ -24,8 +24,8 @@ export function HeroSection() {
         {/* Night Image - Right Side */}
         <div className="absolute right-0 top-0 w-1/2 h-full opacity-20">
           <Image
-            src="/peddler-inn-night.png"
-            alt="Peddler Inn Night - Festive biker community"
+            src="/pedalinn-night.png"
+            alt="Pedal Inn Night - Festive biker community"
             fill
             className="object-cover"
             priority
@@ -46,8 +46,8 @@ export function HeroSection() {
             className="mb-8"
           >
             <Image
-              src="/heritage-logo-2.png"
-              alt="Peddler Inn Logo"
+              src="/pedalinn-heritage.png"
+              alt="Pedal Inn Logo"
               width={240}
               height={240}
               className="mx-auto object-contain"
@@ -64,7 +64,7 @@ export function HeroSection() {
             <h1 className="text-5xl md:text-7xl font-bold text-foreground mb-6 leading-tight font-serif">
               Join the{" "}
               <span className="text-primary relative">
-                Peddler Inn
+                Pedal Inn
                 <motion.div
                   className="absolute -bottom-2 left-0 right-0 h-1 bg-accent"
                   initial={{ scaleX: 0 }}
@@ -86,7 +86,7 @@ export function HeroSection() {
               Adventure. Community. Exclusive Perks.
             </p>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              We&apos;re launching The Peddler Inn — a boutique mixed-use property in downtown Cañon City, combining 4 short-term boutique suites, 3–4 long-term residential rentals, and a street-level bike service hub. Be part of the founding community and enjoy exclusive member benefits.
+              We&apos;re launching The Pedal Inn — a boutique mixed-use property in downtown Cañon City, combining 4 short-term boutique suites, 3–4 long-term residential rentals, and a street-level bike service hub. Be part of the founding community and enjoy exclusive member benefits.
             </p>
           </motion.div>
 

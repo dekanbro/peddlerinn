@@ -14,7 +14,7 @@ export default function TermsPage() {
                 Terms & Conditions
               </h1>
               <p className="text-xl text-muted-foreground">
-                Peddler Inn Membership Program
+                Pedal Inn Membership Program
               </p>
               <p className="text-sm text-muted-foreground mt-2">
                 Last updated: December 2024
@@ -31,7 +31,7 @@ export default function TermsPage() {
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <p className="text-muted-foreground">
-                    Peddler Inn memberships provide prepaid lodging credits and service perks for our boutique hotel and bike service hub in downtown Cañon City, Colorado. These memberships are not investment securities and do not confer ownership rights in The Peddler Inn or its affiliates.
+                    Pedal Inn memberships provide prepaid lodging credits and service perks for our boutique hotel and bike service hub in downtown Cañon City, Colorado. These memberships are not investment securities and do not confer ownership rights in The Pedal Inn or its affiliates.
                   </p>
                   <p className="text-muted-foreground">
                     By purchasing a membership, you agree to these Terms & Conditions and acknowledge that you have read and understood all terms herein.
@@ -48,7 +48,7 @@ export default function TermsPage() {
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <div>
-                    <h3 className="text-lg font-semibold text-foreground mb-2">Peddler Inn Founders Package - $1,000</h3>
+                    <h3 className="text-lg font-semibold text-foreground mb-2">Pedal Inn Founders Package - $1,000</h3>
                     <ul className="list-disc list-inside text-muted-foreground space-y-1 ml-4">
                       <li>5 prepaid nights at our boutique hotel (valid for 12 months from opening)</li>
                       <li>1 premium bike tune-up or rental credit</li>
@@ -58,7 +58,7 @@ export default function TermsPage() {
                     </ul>
                   </div>
                   <div>
-                    <h3 className="text-lg font-semibold text-foreground mb-2">Peddler Inn Adventure Tier - $2,500</h3>
+                    <h3 className="text-lg font-semibold text-foreground mb-2">Pedal Inn Adventure Tier - $2,500</h3>
                     <ul className="list-disc list-inside text-muted-foreground space-y-1 ml-4">
                       <li>12 prepaid nights at our boutique hotel (valid for 12 months from opening)</li>
                       <li>2 premium bike tune-ups</li>
@@ -78,7 +78,7 @@ export default function TermsPage() {
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <p className="text-muted-foreground">
-                    <strong>Hotel Stay Credits:</strong> All prepaid nights expire 12 months from the official opening date of Peddler Inn (anticipated Spring 2026). Unused nights cannot be extended beyond this period.
+                    <strong>Hotel Stay Credits:</strong> All prepaid nights expire 12 months from the official opening date of Pedal Inn (anticipated Spring 2026). Unused nights cannot be extended beyond this period.
                   </p>
                   <p className="text-muted-foreground">
                     <strong>Service Credits:</strong> Bike tune-up and rental credits expire 18 months from the opening date. These credits are non-transferable and must be used by the membership holder.
@@ -167,13 +167,13 @@ export default function TermsPage() {
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <p className="text-muted-foreground">
-                    <strong>Service Interruptions:</strong> Peddler Inn reserves the right to temporarily suspend services due to maintenance, renovations, or circumstances beyond our control. Members will be notified of extended closures and credits may be extended accordingly.
+                    <strong>Service Interruptions:</strong> Pedal Inn reserves the right to temporarily suspend services due to maintenance, renovations, or circumstances beyond our control. Members will be notified of extended closures and credits may be extended accordingly.
                   </p>
                   <p className="text-muted-foreground">
                     <strong>Force Majeure:</strong> In the event of natural disasters, pandemics, or other force majeure events, membership benefits may be suspended or modified. Credits will be extended to compensate for lost time.
                   </p>
                   <p className="text-muted-foreground">
-                    <strong>Maximum Liability:</strong> Peddler Inn&apos;s maximum liability for any membership-related claims shall not exceed the total amount paid for the membership.
+                    <strong>Maximum Liability:</strong> Pedal Inn&apos;s maximum liability for any membership-related claims shall not exceed the total amount paid for the membership.
                   </p>
                 </CardContent>
               </Card>
@@ -187,7 +187,7 @@ export default function TermsPage() {
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <p className="text-muted-foreground">
-                    Peddler Inn reserves the right to modify these Terms & Conditions at any time. Members will be notified of material changes via email at least 30 days in advance.
+                    Pedal Inn reserves the right to modify these Terms & Conditions at any time. Members will be notified of material changes via email at least 30 days in advance.
                   </p>
                   <p className="text-muted-foreground">
                     Continued use of membership benefits after notification of changes constitutes acceptance of the new terms.
@@ -222,7 +222,7 @@ export default function TermsPage() {
                 href="/"
                 className="inline-flex items-center px-6 py-3 bg-primary hover:bg-primary/90 text-primary-foreground rounded-lg font-semibold transition-colors"
               >
-                ← Back to Peddler Inn
+                ← Back to Pedal Inn
               </Link>
             </div>
           </div>

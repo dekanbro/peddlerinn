@@ -54,14 +54,14 @@ export function Navigation() {
             className="flex items-center gap-3"
           >
             <Image
-              src="/heritage-logo-2.png"
-              alt="Peddler Inn Logo"
+              src="/pedalinn-heritage.png"
+              alt="Pedal Inn Logo"
               width={40}
               height={40}
               className="object-contain"
             />
             <span className="font-serif font-bold text-lg text-foreground">
-              Peddler Inn
+              Pedal Inn
             </span>
           </motion.div>
 

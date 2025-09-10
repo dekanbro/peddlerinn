@@ -132,7 +132,7 @@ export function ContactInfo() {
           <div className="text-center">
             <div className="bg-background/80 border border-primary/20 rounded-xl p-6 max-w-2xl mx-auto">
               <h4 className="text-xl font-bold text-foreground mb-3">
-                Ready to Join Peddler Inn?
+                Ready to Join Pedal Inn?
               </h4>
               <p className="text-muted-foreground mb-6">
                 Don&apos;t wait - founding memberships are limited and filling up fast. 
@@ -162,7 +162,7 @@ export function ContactInfo() {
           className="text-center mt-16 pt-8 border-t border-border/30"
         >
           <p className="text-muted-foreground">
-            © 2024 Peddler Inn Hotel & Bike Hub. Building community in Cañon City, Colorado.
+            © 2024 Pedal Inn Hotel & Bike Hub. Building community in Cañon City, Colorado.
           </p>
         </motion.div>
       </div>
